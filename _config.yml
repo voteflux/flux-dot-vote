@@ -7,3 +7,4 @@ google_analytics: UA-62282050-7
 buttons:
   - label: "View Livestream"
     href: "https://www.youtube.com/embed/live_stream?channel=UCzbr9m9G05Y5uy3HQuJWAlw"
+markdown: kramdown

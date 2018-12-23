@@ -10,4 +10,6 @@ Goals:
 
 The whole thing is livestreamed. Check it, yo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/live_stream?channel=UCzbr9m9G05Y5uy3HQuJWAlw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id="ls-yt-div">
+    <iframe id="livestream-youtube" src="https://www.youtube.com/embed/live_stream?channel=UCzbr9m9G05Y5uy3HQuJWAlw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
