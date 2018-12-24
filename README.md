@@ -30,3 +30,7 @@ The whole thing is livestreamed. Check it, yo:
 12. 4th Jan
 13. 5th Jan
 14. 6th Jan
+
+## Architecture Diag (rough; WIP)
+
+<img src="img/arch-v1.svg" />
