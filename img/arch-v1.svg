@@ -183,7 +183,7 @@
      inkscape:cx="462.95897"
      inkscape:cy="504.99908"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1373"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      objecttolerance="9"
@@ -1139,5 +1139,23 @@
        inkscape:connector-curvature="0"
        inkscape:connection-start="#g4997"
        inkscape:connection-end="#g16412-1" />
-  </g>
+    <rect
+       style="opacity:0.6;vector-effect:none;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5291667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1391"
+       width="205.05208"
+       height="85.989586"
+       x="0"
+       y="204.3958" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1393"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,0,11.24997)"><flowRegion
+         id="flowRegion1395"><rect
+           id="rect1397"
+           width="275"
+           height="150"
+           x="375"
+           y="830" /></flowRegion><flowPara
+         id="flowPara1399">STRETCH GOAL</flowPara></flowRoot>  </g>
 </svg>
