@@ -33,4 +33,4 @@ The whole thing is livestreamed. Check it, yo:
 
 ## Architecture Diag (rough; WIP)
 
-<img src="img/arch-v1.svg" />
+<img src="img/arch-v1.png" />
