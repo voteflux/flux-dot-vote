@@ -2,9 +2,15 @@ theme: jekyll-theme-cayman
 title: Flux.Vote
 description: "14 days of coding to get a demo of Flux's voting app live"
 google_analytics: UA-62282050-7
-#github:
-#  is_project_page: False
+github:
+  is_project_page: False
 buttons:
   - label: "View Livestream"
     href: "https://www.youtube.com/channel/UCzbr9m9G05Y5uy3HQuJWAlw/live"
+  - label: "GitHub: Code"
+    href: "https://github.com/voteflux/voting-alpha"
+  - label: "GitHub: Website"
+    href: "https://github.com/voteflux/flux-dot-vote"
+  - label: "GitHub: Project/Kanban"
+    href: "https://github.com/voteflux/flux-dot-vote/projects/2"
 markdown: kramdown
