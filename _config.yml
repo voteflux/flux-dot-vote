@@ -13,4 +13,6 @@ buttons:
     href: "https://github.com/voteflux/flux-dot-vote"
   - label: "GitHub: Project/Kanban"
     href: "https://github.com/voteflux/flux-dot-vote/projects/2"
+  - label: "AWS: Deploy latest stack (DEV)"
+    href: "https://console.aws.amazon.com/cloudformation/home?region=ap-southeast-2#/stacks/new?stackName=test-voting-stack&templateURL=https%3A%2F%2Fs3.ap-southeast-2.amazonaws.com%2Fflux-scratch%2Ftemplates%2Fflux-securevote-voting-stack.yaml"
 markdown: kramdown
