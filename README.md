@@ -3,9 +3,16 @@
 A two week code-binge to finish Flux's voting app (well, an alpha of it).
 
 Goals:
-* One-click deploy secure-ish voting stack on AWS (there are a few compromises made for pracitcal reasons, but realistically this is good enough for demo + proof of concept. There's lots more that can be done to improve things)
-* Mirror Parliament (all bills in parliament replicated in the voting system with a live feed that auto-updates issues)
-* Petition type thing for referenda - user submitted
+* General Stack:
+  * One-click deploy secure-ish voting stack on AWS (there are a few compromises made for pracitcal reasons, but realistically this is good enough for demo + proof of concept. There's lots more that can be done to improve things)
+  * Usable by most* groups. [*]: Not governments, businesses, or those who aren't excellent to eachother. (That last one's a joke, but the first two aren't)
+* Flux and other Good Things (tm)
+  * Mirror Parliament (all bills in parliament replicated in the voting system with a live feed that auto-updates issues)
+  * Petition type thing for referenda - user submitted
+  * Auto email elected representatives before bills are voted on in APH letting them know how their jurisdiction voted (in our system)
+  * Auto email elected representatives after bills are voted on in APH either patting them on the back or chastising them depending on whether they voted with their electorate or not
+  * Allow Journos (etc) to subscribe to those emails too
+  * Pretty graphics about the above
 
 ## Livestream
 
