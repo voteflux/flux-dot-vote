@@ -14,6 +14,12 @@ Goals:
   * Allow Journos (etc) to subscribe to those emails too
   * Pretty graphics about the above
 
+## Getting Involved
+
+Want to help? Got some time between Jan 2nd and 6th? Great! For the moment read the goals and info on this site,
+and have a look at the <a href="https://github.com/voteflux/flux-dot-vote/projects" target="_blank" rel="noopener noreferrer">projects on GitHub</a> where we're tracking tickets and ideas.
+Also mention it in live chat!
+
 ## Livestream
 
 The whole thing is livestreamed. Check it, yo:
