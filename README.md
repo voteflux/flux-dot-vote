@@ -1,5 +1,8 @@
 # Flux.Vote
 
+**Now Finished** - video summary coming soon. A lot of good progress was made, though there were some setbacks. Broadly speaking the items remaining are API+Lambdas+UI (lambdas for stuff like fee-free voting).
+This will hopefully be completed by the end of Jan 2019. Status updates will bbe posted here.
+
 A two week code-binge to finish Flux's voting app (well, an alpha of it).
 
 Goals:
